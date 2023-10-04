@@ -54,5 +54,8 @@ void mousePressed()
 {
   globos.add(new Globo(mouseX,mouseY));
   globos.add(new Globo(mouseX,mouseY));
+<<<<<<< HEAD
   globos.add(new Globo(mouseX,mouseY));
+=======
+>>>>>>> 3d
 }
