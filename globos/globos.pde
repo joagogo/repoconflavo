@@ -53,4 +53,5 @@ void draw()
 void mousePressed()
 {
   globos.add(new Globo(mouseX,mouseY));
+  globos.add(new Globo(mouseX,mouseY));
 }
